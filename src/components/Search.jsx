@@ -3,10 +3,10 @@ import '../styles/search.css'
 function Search() {
   return (
     <div className="DENIS">
-            <img src="./Search.svg"/>
-            <input type="text" placeholder="Enter city or region"></input>            
+      <img src="./Search.svg"/>
+      <input type="text" placeholder="Introduce el nombre del postre"></input>            
     </div>
   )
-}
+
 
 export default Search
